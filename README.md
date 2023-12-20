@@ -1,3 +1,3 @@
 # Quiz-project
-This is  a dummy project.
+This is  a demo project.
 Author name (Zulqarnain)
